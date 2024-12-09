@@ -9,7 +9,7 @@ I am a Frontend Software Developer with expertise in HTML / CSS/ JS / React JS. 
 * 🌍  I'm based in Timisoara, RO
 * 🖥️  See my portfolio at [hainerstefan.com](http://hainerstefan.com)
 * ✉️  You can contact me at [hainer.stefan@gmail.com](mailto:hainer.stefan@gmail.com)
-* 🧠  I'm learning Node JS
+* 🧠  I'm currently learning NextJS
 
 ### Skills
 
